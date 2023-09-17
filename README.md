@@ -11,8 +11,8 @@ The OpenSCAD file is included, which is where the .stl is generated from. It’s
 
 
 ## Basic instructions
-*A more detailed build guide that explains how I did each step will be coming soon.
-*
+*A more detailed build guide that explains how I did each step will be coming soon.*
+
 ### Building the keyboard
 - 3D print all .stl files with a layer height of 0.15mm and adequate support.
 - Glue the top and middle parts of the keyboard with epoxy so they become one solid whole.
